@@ -38,7 +38,7 @@ git merge jquery-OStoneO/master
 
 git push origin master
 
-### Other、发送Pull Request到jquery-OStoneO
+### 6、发送Pull Request到jquery-OStoneO
 
 用自己的github账号登陆github网站
 
@@ -55,6 +55,13 @@ git push origin master
 点击Send pull request
 
 这样就把你的所有commit发送给jquery-OStoneO了
+
+### 7、指令示例
+
+克隆指定分支版本到指定文件加
+```
+git clone https://github.com/OStoneO/jquery.git ./jquery_1.12/ -b 1.12-stable
+```
 
 copy from [here](https://github.com/ysc/APDPlat/wiki/%E5%A6%82%E4%BD%95%E6%9B%B4%E6%96%B0%E8%87%AA%E5%B7%B1Fork%E7%9A%84%E4%BB%A3%E7%A0%81)
 
