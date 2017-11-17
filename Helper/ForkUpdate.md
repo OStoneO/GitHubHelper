@@ -1,4 +1,4 @@
-更新自己fork的代码
+更新自己Fork的代码
 ==
 以GitHub用户OStoneO为例子，在你操作的时候要把下面的GitHub用户名OStoneO换成你自己的GitHub用户名：
 
