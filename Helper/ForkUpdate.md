@@ -4,7 +4,7 @@
 
 注意事项：在更新自己Fork的代码之前，需要先把自己在本地的更改进行提交。
 
-### 1、检出自己在github上fork的jquery分支
+### 1、检出自己在GitHub上fork的JQuery分支
 
 git clone https://github.com/OStoneO/jquery.git
 
@@ -12,7 +12,7 @@ cd jquery
 
 ` 如果已经检出了代码，则此步骤为切换到jquery根目录然后执行第二步 `
 
-### 2、增加jquery的远程原始分支（用户jquery的分支）到本地
+### 2、增加JQuery的远程原始分支（用户JQuery的分支）到本地
 
 ` 如果以前已经执行过本操作，则可忽略，当然，需要用git remote -v命令里确认是否有jquery-OStoneO分支 `
 
@@ -34,13 +34,13 @@ git fetch jquery-OStoneO
 ### 4、合并对方远程原始分支jquery-OStoneO的代码
 
 git merge jquery-OStoneO/master
-### 5、把最新的代码推送到你的github上
+### 5、把最新的代码推送到你的GitHub上
 
 git push origin master
 
 ### 6、发送Pull Request到jquery-OStoneO
 
-用自己的github账号登陆github网站
+用自己的GitHub账号登陆GitHub网站
 
 打开https://github.com/OStoneO/jquery
 
